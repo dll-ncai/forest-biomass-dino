@@ -52,8 +52,8 @@ by `summarize_results.py`.
 ## Quick start
 
 ```bash
-git clone https://github.com/dll-ncai/forest-biomass-dinov2.git
-cd forest-biomass-dinov2
+git clone https://github.com/dll-ncai/forest-biomass-dino.git
+cd forest-biomass-dino
 
 conda create -n biomass python=3.11 -y
 conda activate biomass
